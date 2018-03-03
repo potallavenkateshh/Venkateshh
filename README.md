@@ -1,3 +1,7 @@
+>>>>>>> HEAD
 THIS IS CREATED NOW IN MASTER BRANCH
+
+
+
 
 
